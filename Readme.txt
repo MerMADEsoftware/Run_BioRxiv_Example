@@ -1,4 +1,4 @@
-This repository contains all source code material for the MerMADE 1.0 modelling software.
+This repository contains all input files to reproduce the example presented in:
 "MerMADE 1.0: Coupled biophysical, eco-evolutionary modelling for predicting population dynamics, movement and dispersal evolution in aquatic environments"
 
 Example input files are included.

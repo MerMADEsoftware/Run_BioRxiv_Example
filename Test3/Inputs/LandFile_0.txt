@@ -1,0 +1,2 @@
+Simulation	Nhabitats	Npatches	K0	K1	K2	DimensionsFile	U_File	V_File	W_File	LandscapeFile	Abs_DepthFile	PatchFile	SpDistFile	CostFile	Tempfile	Patch_extinct	P_ext_method	P_ext_p_prop	P_ext_patch	P_ext_i_prop	P_ext_int	P_ext_burnin
+0	3	104	0	.11	0	info_3d.txt	u_layers.txt	v_layers.txt	w_layers.txt	hab_layers.txt	sf_depth.txt	patch_layers.txt	NULL	NULL	NULL	0	-9	-9	-9	-9	-9	-9

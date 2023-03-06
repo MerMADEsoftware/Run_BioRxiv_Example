@@ -1,0 +1,2 @@
+Simulation	Stage_Dep	Sex_dep	method	m	m_sd	b	L_inf	L_inf_sd	Ti	Ti_sd	G_k
+0	0	0	1	-9	-9	-9	67	-9	53	-9	0.03696889

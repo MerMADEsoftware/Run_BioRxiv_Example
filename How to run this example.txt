@@ -1,0 +1,25 @@
+These are instructions to run the example application of MerMADE 1.0 presented in the Ecography Software Note
+
+Prerequisite requirements: MerMADE 1.0 only runs on a Windows machine, so either run it on a Windows computer or use an emulator. You will also require Rstudio to reproduce the Figure 
+presented in the software note
+
+Step 1: download this entire folder to your machine. If you change the names of the directories, you'll have to change them below so I suggest keeping the original names
+
+Step 2: on your machine, navigate to the folder and double click the MerMADE.exe. This opens the software executable in the command line. 
+
+Step 3: The program will ask you for the filepath to your inputs. This tells MerMADE where to search for all the parameter values. If you are running Test1, then you would type in Test1/ (if you are
+	running Test 2 then you would type in Test2/ and so on)
+	NB: since you downloaded the folder and the .exe file is inside the Run_The_Example folder, the address you put in is simple: Test/. If your executable is in a different folder, 
+	then you will need to enter the relative path! There is more information on this in the user manual.
+
+Step 4: Press enter. MerMADE will now run the inputs from Test1 and store the outputs in the Outputs folder within Test 1. There will be a lot of test being outputted to the terminal
+	and this is just there for you to be able to track what is going on (ie what year it is running, how many individuals there are, what stage of the life cycle it is at). You don't
+	really need to pay any attention to this as all the outputs will be stored at the end of the simulation.
+
+Step 5: Wait. The simulation runs for 50 years and will do 5 replicates (NB in the paper we ran 20 replicates, but for the interest of time, this only runs 5). This will take some time
+	as we are dealing with tens of thousands of super-individuals every year.
+
+Step 6: You will know when the simulations are finished because the terminal will stop having text outputted and it will have the word 'Done' printed to the screen. You can now close the terminal
+	window. All of your outputs are saved within the Outputs folder.
+
+Step 7: Open the file SN_Example_MerMADE.R in RStudio. This will give you step by step instructions on how to reproduce the Figure presented in the software note.

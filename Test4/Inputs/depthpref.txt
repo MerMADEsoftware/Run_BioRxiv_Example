@@ -1,0 +1,2 @@
+Simulation	DepthPref	DepthMin	DepthMax	DepthSex	MDepthMin	MDepthMax	FDepthMin	FDepthMax
+0	0	0	170	0	-9	-9	-9	-9

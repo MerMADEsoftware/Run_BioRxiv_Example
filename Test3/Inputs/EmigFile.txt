@@ -1,0 +1,2 @@
+Simulation	DensDep	StageDep	SexDep	IndVar	iiv_sd	EmigStage	Stage	Sex	EP	D0	alpha	beta
+0	0	0	0	1	.1	0	0	-9	0.8	-9	-9	-9

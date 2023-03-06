@@ -1,0 +1,2 @@
+Sim	EP_evo	EP_mut_size	EP_mut	alpha_mut_size	beta_mut_size	active_evo	active_mut	active_mut_size	dv_evo	dv_mut	dv_mut_size	growth_evo	growth_mut	m_mut_size	b_mut_size	Linf_mut_size	GK_mut_size	Ti_mut_size	comp_evo	comp_mut	comp_mut_size	S0_evo	S0_mut	S0_mut_size	alphaS_mut_size	betaS_mut_size
+0	0	-9	-9	-9	-9	0	-9	-9	0	-9	-9	0	-9	-9	-9	-9	-9	-9	0	-9	-9	0	-9	-9	-9	-9

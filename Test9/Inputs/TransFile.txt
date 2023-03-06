@@ -1,0 +1,2 @@
+Simulation	StageDep	SexDep	DistMort	Stage	Sex	Rho	Rho_sd	SL	comp_SL	SL_sd	min_active_time	min_active_size	active_sd	buoy_min	buoy_max	diel_vert	dv_range	dv_active	min_dv_time	min_dv_size	min_dv_sd	down_bias	DP	Memory	MortProb	Slope	InflPoint
+0	0	0	0	0	-9	-0.008	-9	1	-9	-9	-9	0	-9	0	60	0	-9	0	-9	-9	-9	1	0	2	0.042	-9	-9

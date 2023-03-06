@@ -1,0 +1,9 @@
+w_0_04.txt
+w_1_04.txt
+w_2_04.txt
+w_3_04.txt
+w_4_04.txt
+w_5_04.txt
+w_6_04.txt
+w_7_04.txt
+w_8_04.txt

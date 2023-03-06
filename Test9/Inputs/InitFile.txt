@@ -1,0 +1,2 @@
+Simulation	SeedType	FreeType 	FreeProp	minX	maxX	minY	maxY	minZ	maxZ	SpType	SpProp	InitDens	IndsHa	WhichPatch	PropMales	InitAge	PropStage1	PropStage2	PropStage3	PropStage4
+0	2	-9	-9	-9	-9	-9	-9	-9	-9	-9	-9	1	-9	14	0.5	1	0	0	0.5	0.5

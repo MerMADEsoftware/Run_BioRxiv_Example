@@ -17,7 +17,9 @@ Growth & Delayed competency:
 - Test9: active disperser, size-dependent, competent at 26mm, rho=-0.008, SL= 1BL/s (size dependent rho and SL)
 
 
-All tests include 20 replicates and simulations run for 50 years. Individuals are released from Patch 14 in all cases to explore recovery dynamics
-Examples here do not include dynamic seascapes, hydrodynamic information is takes from 2004 data of the North Sea 
+All tests include 5 replicates and simulations run for 50 years. NOTE that in the paper, we ran 20 replicates, but in the interest of time, these input files
+only run 5. You may change this if you wish.
+Individuals are released from Patch 14 in all cases to explore recovery dynamics
+Example hydrodynamic information is takes from 2004 data of the North Sea  
 
 For any further details or explanations on parameter values, see the user manual or Descriptions.xlsx 

@@ -1,5 +1,8 @@
-This repository contains all input files to reproduce the example presented in:
-"MerMADE 1.0: Coupled biophysical, eco-evolutionary modelling for predicting population dynamics, movement and dispersal evolution in aquatic environments"
+This repository contains:
+- all input files to reproduce the example presented in: "MerMADE 1.0: Coupled biophysical, eco-evolutionary modelling for predicting population dynamics, movement and dispersal evolution in aquatic environments"
+- The executable version of the MerMADE 1.0 software to run the inputs
+- R code to reproduce the figure presented in the above software note
+- Instructions on how to run the example inputs and reproduce the figure
 
 Example input files are included.
 
